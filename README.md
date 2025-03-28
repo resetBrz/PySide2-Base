@@ -10,11 +10,6 @@
 - `Feature`: Help Python beginners
 
 
-
-
-
-
-
 # ✔️ Tecnologies
 - `Python`
 - `PySide2`
